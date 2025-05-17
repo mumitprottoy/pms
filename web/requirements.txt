@@ -1,0 +1,5 @@
+django
+pymysql
+psycopg2-binary
+mysqlclient
+mysql-connector-python
